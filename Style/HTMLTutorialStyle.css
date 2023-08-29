@@ -1,0 +1,18 @@
+.red-text mark {
+    color: red;
+    background: white;
+}
+.red-text abbr{
+    font-size: 17px;
+}
+.red-text strong{
+    font-size: 17px;
+}
+
+.red-text strong{
+    font-size: 22px;
+}
+#markcollor mark{
+    color: darkcyan;
+    background: lightgray;
+}
